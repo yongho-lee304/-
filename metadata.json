@@ -1,0 +1,6 @@
+{
+  "name": "타짜 섯다 - AI 대전",
+  "description": "스릴 넘치는 정통 화투 섯다 게임. 개성 넘치는 AI 타짜와의 심리전과 베팅, 손맛 넘치는 패 쪼기까지 즐겨보세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
